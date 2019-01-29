@@ -23,5 +23,10 @@ namespace MegaDesk_3_KervingHJoseph
             mainMenu.Show();
             Close();
         }
+
+        private void AddQuote_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
